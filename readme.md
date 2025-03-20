@@ -5,16 +5,17 @@ Ik raad het aan om tenminste ff er doorheen te kijken en kijken aan het begin of
 
 
 # Instalatie van c++
-- [c++ compiler](url)
-- [instalatie guide]()
+- [c++ compiler](https://code.visualstudio.com/docs/cpp/config-mingw)
+- [instalatie guide](basisconcepten/uitleg/instalatie_cpp/readme.md)
 
 # Uitleg en opdrachten
 ### BasisConcepten van c++
 ---
-- [Inleiding tot c++]()  
-- [Printen in c++]()  
-- [Escape sequences vs endline]()  
-- [Scopes]()  
+- [Inleiding tot c++](basisconcepten/uitleg/instalatie_cpp/readme.md)  
+- [Scopes en main](basisconcepten/uitleg/scopes_en_main/readme.md)  
+- [Includes](basisconcepten/uitleg/includes/readme.md)
+- [Printen in c++](basisconcepten/uitleg/printen_in_cpp/readme.md)  
+- [escape sequences en endline](basisconcepten/uitleg/escape_sequences_en_endline/readme.md)  
 - ### Opdrachten
     ---
 
