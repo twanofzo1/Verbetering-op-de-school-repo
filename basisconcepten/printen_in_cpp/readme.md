@@ -21,8 +21,11 @@ int main(){
 }
 ```
 de print methode `std::cout` staat in de `std namespace`
-dit kan je zien als een soort organisatie methode door `std::` neer te zetten maak zorg je er voor dat je dingen uit de std namespace gebruikt kunnen worden  
-meer over namespaces komt later
+
+
+#### let op: 
+single quotes `'` `'` zijn in c++ alleen voor 1 letter   
+gebruik double quotes `"` `"` voor strings
 
 ## meerdere dingen printen
 in de cout methode kan je meerdere dingen teglijk printen  

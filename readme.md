@@ -20,24 +20,21 @@ Ik raad het aan om tenminste ff er doorheen te kijken en kijken aan het begin of
     ---
 
 
-### variabelen
+### variabelen [WIP]
 ---
 - [variabelen in c++]()
 - [const]()
 
 
 
-### Datatypes
+### Datatypes [WIP]
 ---
-- [Characters]()
-- [Strings vs characters]()
-- [integers floats doubles]()
-- [signed en unsigned]()
+
 - #### Opdrachten
     ---
 
 
-### input
+### input [WIP]
 ---
 - [Character input]()
 - [Line input]()
@@ -45,7 +42,7 @@ Ik raad het aan om tenminste ff er doorheen te kijken en kijken aan het begin of
     ---
 
 
-### pointers en refferences
+### pointers en refferences [WIP]
 ---
 - [memory adresses]()
 - [wat zijn pointers]()
@@ -55,7 +52,7 @@ Ik raad het aan om tenminste ff er doorheen te kijken en kijken aan het begin of
     ---
 
 
-### Arrays en vectors
+### Arrays en vectors [WIP]
 ---
 - [Arrays]()
 - [verschil tussen arrays en vectors]()
@@ -66,14 +63,14 @@ Ik raad het aan om tenminste ff er doorheen te kijken en kijken aan het begin of
 
 ### Bits
 ---
-- [wat is een bit]()
+- [wat is een bit]() [WIP]
 - [bytes]()
 - [bits en bytes in c++]()
 - #### Opdrachten
     ---
 
 
-### Files
+### Files [WIP]
 ---
 - [input]()
 - [output]()
@@ -82,14 +79,14 @@ Ik raad het aan om tenminste ff er doorheen te kijken en kijken aan het begin of
     ---
 
 
-### Functies
+### Functies [WIP]
 - []()
 - []()
 - []()
 - #### Opdrachten
     ---
-
-### Meerdere c++ Files
+ 
+### Meerdere c++ Files [WIP]
 - []()
 - []()
 - []()

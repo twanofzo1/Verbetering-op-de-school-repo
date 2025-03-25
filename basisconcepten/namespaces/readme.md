@@ -5,7 +5,8 @@
 de meest voorkomende is de `std` namespace
 je kan een namespace zien als een map  
 in deze map kunnen variabelen methoden en functies staan  
-veel van de functionaliteiten van libraries zullen in de `std namespace staan`
+veel van de functionaliteiten van libraries zullen in de `std namespace` staan  
+(std staat voor 'standard' of 'sexualy transmitted disease' voor de mensen die het kut vinden :) )
 
 ## hoe access ik een namespace
 als je een iets uit een namespace wilt gebruiken kan je `namespace naam` `::` `functie` gebruiken bvb
