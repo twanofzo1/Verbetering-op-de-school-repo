@@ -9,14 +9,13 @@ signed en unsigned moeten voor het datatype die je wilt gebruiken gezet worden
 bvb:
 ```c++
 unsigned int a;
-unsigned char b;
+signed char b;
 ```
 
 
 ## Waarom unsigned gebruiken?
-sommige nummers kunnen niet negatief zijn hierdoor is het handig om unsigned voor het datatype te zetten dit maakt het datatype 2x zo groot aan de positieve kant
-bvb:
+sommige nummers kunnen niet negatief zijn hierdoor is het handig om unsigned voor het datatype te zetten dit maakt het datatype 2x zo groot aan de positieve kant  
 ```c++
-char a = 127; // max
-unsigned char = 255; // max
+int a = 2147483647 ; // max
+unsigned int = 4294967295; // max
 ```

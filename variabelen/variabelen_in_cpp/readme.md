@@ -2,6 +2,9 @@
 variabelen in c++ werken anders dan in python
 c++ is namenlijk een staticly typed language dit betekent dat je het datatype (bvb int float char) moet mee geven als je een variabele aan maakt
 
+## Voorkennis
+[basisconcepten](../../basisconcepten/readme.md)
+
 
 ## hoe maak je een variabele aan
 je kan een variabele aanmaken door het datatype voor de variabele naam te zetten
